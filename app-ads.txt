@@ -1,0 +1,2 @@
+# app-ads.txt 示例文件：
+google.com, pub-2721415273467198，DIRECT，f08c47fec0942fa0
